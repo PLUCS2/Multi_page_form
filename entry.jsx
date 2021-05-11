@@ -1,5 +1,6 @@
 import React from "react"; 
 import ReactDOM from "react-dom"; 
+import AuthForm from "./multi_form_auth"; 
 
 const App = () => {
     return (
